@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "release 3.55.0" );
         System.out.println( "hotfix 3.55.3" );
+        System.out.println( "feature I-0001" );		
     }
 }
